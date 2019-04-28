@@ -1,7 +1,8 @@
-# weather
+## API params
 ```bash
 weather/config/slak/api-key.json
 ```
+
 ## How to get an API Parameters?
 ```json
 {
@@ -9,12 +10,6 @@ weather/config/slak/api-key.json
 	"channelId": "슬랙 채널 명 우클릭 -> 링크 주소 복사하여 나오는 문자열",
 	"weatherApiKey": "공공데이터 홈페이지에 사용 신청한 API 키"
 }
-```
-
-# Run
-```bash
-npm start
-http://localhost:8080
 ```
 
 # Error
@@ -27,3 +22,10 @@ npm install -g node-gyp
 npm install -g --production windows-build-tools
 npm install iconv
 ```
+
+# Run
+```bash
+npm start
+http://localhost:8080
+```
+
