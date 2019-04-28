@@ -1,0 +1,29 @@
+{
+    "name": "weather",
+    "version": "1.0.0",
+    "main": "route/condition.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "body-parser": "^1.19.0",
+        "express": "^4.16.4",
+        "iconv": "^2.3.2",
+        "node-gyp": "^3.8.0",
+        "request": "^2.88.0"
+    },
+    "devDependencies": {},
+    "description": "Weather condition for slack",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/garibee/weather.git"
+    },
+    "bugs": {
+        "url": "https://github.com/joeslab/twitch/issues"
+    },
+    "homepage": "https://github.com/garibee/weather"
+}
