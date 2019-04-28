@@ -11,7 +11,19 @@ weather/config/slak/api-key.json
 }
 ```
 
+# Run
 ```bash
 npm start
 http://localhost:8080
+```
+
+# Error
+```bash
+- python v2.7 버전 설치
+npm install --python=python2.7
+npm config set python python2.7
+
+npm install -g node-gyp
+npm install -g --production windows-build-tools
+npm install iconv
 ```
