@@ -23,7 +23,7 @@ const helper = {
         const date = function() { // base_date
             const year = currDate.getFullYear();
             const month = (currDate.getMonth() < 10 ? '0' : '') + (currDate.getMonth() + 1);
-            const day = currDate.getDate();
+            const day = (currDate.getDate() < 10 ? '0' : '') + (currDate.getDate());
             const result = year + "" + month + "" + day;
             return result;
         };
