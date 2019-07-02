@@ -1,6 +1,6 @@
-<center>
-![Weather](./static/weather.PNG)
-</center>
+<div align="middle">
+	<img src="https://github.com/garibee/weather/blob/master/static/weather.PNG" style="max-width:100%">
+</div>
 
 ## API params
 ```bash
