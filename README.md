@@ -1,3 +1,5 @@
+![Weather](./static/weather.PNG)
+
 ## API params
 ```bash
 weather/config/slak/api-key.json
