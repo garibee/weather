@@ -1,4 +1,4 @@
-![Weather](./static/weather.PNG)
+<center>![Weather](./static/weather.PNG)</center>
 
 ## API params
 ```bash
