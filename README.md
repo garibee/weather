@@ -1,3 +1,7 @@
+<style>
+img.aligncenter{display:block;margin:0 auto}
+</style>
+
 ![Weather](./static/weather.PNG){:.aligncenter}
 
 ## API params
