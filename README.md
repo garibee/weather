@@ -1,4 +1,4 @@
-<center>![Weather](./static/weather.PNG)</center>
+![Weather](./static/weather.PNG){:.aligncenter}
 
 ## API params
 ```bash
